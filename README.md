@@ -3,7 +3,7 @@
 <h2>Homelab Project:</h2>
 
 - <b>Raspberry Pi</b>
-  - DNS filter with Pi-hole
+  - [DNS filter with Pi-hole](https://github.com/DJumpmanD/raspberry-pi-pihole-dns-server/blob/main/README.md)
   - Connecting to my DNS filter from my laptop and Mobile phone using Tailscale
   - Creating a Network drive using Samba
 - <b>PowerShell</b>
