@@ -7,13 +7,15 @@
   - Connecting to my DNS filter from my laptop and Mobile phone using Tailscale
   - Creating a Network drive using Samba
 
--<b>Active Directory</b>
+- <b>Active Directory</b>
   - Create user account and manage permissions
   - Create OU and provide emails
     
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="EricRodriguez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: www.linkedin.com/in/eric-david-rodriguez
+
+
 
